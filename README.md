@@ -1,10 +1,10 @@
-# SplitMate-Expense-Splitter
+💸# SplitMate-Expense-Splitter
 
 Forget the calculators and post-trip headaches! **SplitMate** is a desktop application designed for friend groups, roommates, or families who need an easy way to keep track of shared expenses. 
 
 You just log who paid for what, and SplitMate handles the heavy math. It calculates exactly who owes whom.
 
-## Setup & Requirements
+## 💻 How to Download and Run
 
 To run this project on your computer, you'll need to have Python installed. It also uses a couple of libraries for the GUI and the PDF reporting feature. 
 
@@ -28,4 +28,4 @@ Whenever you need to split the expenses, go to the bottom section and click **"C
 **4. Export your report**
 If you want to send the final math to the group chat as a friendly reminder, click **"Generate PDF Report"**. The app will automatically create a file called `SplitMate_Report.pdf` with the official summary.
 
-Pay on time and save a mate!
+**5. Pay on time and save a mate!**
