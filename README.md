@@ -1,4 +1,4 @@
-💸# SplitMate-Expense-Splitter
+💸## SplitMate-Expense-Splitter
 
 Forget the calculators and post-trip headaches! **SplitMate** is a desktop application designed for friend groups, roommates, or families who need an easy way to keep track of shared expenses. 
 
