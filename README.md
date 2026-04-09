@@ -5,8 +5,8 @@ Forget the calculators and post-trip headaches! **SplitMate** is a desktop appli
 You just log who paid for what, and SplitMate handles the heavy math. It calculates exactly who owes whom.
 
 ## 🚀 How to Execute and Run the app
-1. Go to the **[Releases](../../releases)** section on the right side of this GitHub page.
-2. Download the latest version of the `SplitMate.exe` file.
+1. Go to the **https://github.com/daniandp/SplitMate-Expense-Splitter/releases/tag/v1.0.0**
+2. Download the latest version of the `SplitMate.exe` file
 3. Double-click the downloaded file to run the application. No installation required!
 
 *(Note: Windows might show a "Windows protected your PC" blue warning because it's a new indie app. Just click "More info" and then "Run anyway").*
