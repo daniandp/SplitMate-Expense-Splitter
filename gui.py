@@ -1,6 +1,16 @@
 import tkinter as tk
 import ttkbootstrap as tb
 from tkinter import messagebox, simpledialog
+import os
+import sys
+
+def resource_path(relative_path):
+    try:
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
 
 # GUI file responsibility: Manage user interface and events
 
@@ -14,7 +24,7 @@ class ExpenseGUI:
         self.root.title("SplitMate - Your Friendly Expense Splitter")
         self.root.geometry("1100x1200")
 
-        self.root.iconbitmap('logo.ico')
+        self.root.iconbitmap(resource_path('logo.ico'))
 
         self.main_container = tb.Frame(self.root, padding=30)
         self.main_container.pack(fill="both", expand=True)

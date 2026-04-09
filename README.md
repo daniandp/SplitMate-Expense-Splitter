@@ -1,8 +1,15 @@
-## 💸 SplitMate-Expense-Splitter
+# 💸 SplitMate-Expense-Splitter
 
 Forget the calculators and post-trip headaches! **SplitMate** is a desktop application designed for friend groups, roommates, or families who need an easy way to keep track of shared expenses. 
 
 You just log who paid for what, and SplitMate handles the heavy math. It calculates exactly who owes whom.
+
+## 🚀 How to Execute and Run the app
+1. Go to the **[Releases](../../releases)** section on the right side of this GitHub page.
+2. Download the latest version of the `SplitMate.exe` file.
+3. Double-click the downloaded file to run the application. No installation required!
+
+*(Note: Windows might show a "Windows protected your PC" blue warning because it's a new indie app. Just click "More info" and then "Run anyway").*
 
 ## 💻 How to Download and Run
 
